@@ -1,0 +1,16 @@
+{
+  "name": "Книжный Мир",
+  "short_name": "BookWorld",
+  "theme_color": "#403040",
+  "background_color": "#D8BFD8",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/Placeholder",
+  "start_url": "book.html"
+  "icons": [
+    {
+      "src": "book.png",
+      "sizes": "36x36",
+      "type": "image/png"
+    },
+}
